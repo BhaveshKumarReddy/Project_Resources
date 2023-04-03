@@ -1,7 +1,8 @@
 1. API
   i. Models
-  ii. Non generic repo pattern REPO -> SERV -> CONTRL
-  iii. Add JWT
+  ii. DTO
+  iii. Non generic repo pattern REPO -> SERV -> CONTRL
+  iv. Add JWT
 
 2. Angular
 
