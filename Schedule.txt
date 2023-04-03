@@ -1,0 +1,16 @@
+1. API
+  i. Models
+  ii. Non generic repo pattern REPO -> SERV -> CONTRL
+  iii. Add JWT
+
+2. Angular
+
+3. Testing 
+
+
+
+After pulling:
+i. Check connection string in appsettings.json
+
+Before pushing:
+i. Replace appsettings.json
