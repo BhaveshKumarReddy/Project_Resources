@@ -1,1 +1,6 @@
+After pulling:
+i. Check connection string in appsettings.json
+
+Before pushing:
+i. Replace appsettings.json
 
